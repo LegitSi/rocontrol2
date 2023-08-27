@@ -11,3 +11,5 @@ But enough of that, you probably want to hear from me first, so let me answer so
 2. Why did you make RoControl? Simple. I wanted to use it for moderation purposes for my later Roblox games, not that I ever made any..
 
 If you have any questions, comments, or concerns, say them to my face.
+
+![image](https://github.com/LegitSi/rocontrol2/assets/44820309/3cac02d2-f521-482a-8a16-3bd9d70b98b9)
