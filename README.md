@@ -1,4 +1,6 @@
 # rocontrol2
+![image](https://github.com/LegitSi/rocontrol2/assets/44820309/3cac02d2-f521-482a-8a16-3bd9d70b98b9)
+
 RoControl, but better!
 
 Now that I have your attention, Mr. Tactical, I'd like to ask you some questions.
@@ -12,4 +14,4 @@ But enough of that, you probably want to hear from me first, so let me answer so
 
 If you have any questions, comments, or concerns, say them to my face.
 
-![image](https://github.com/LegitSi/rocontrol2/assets/44820309/3cac02d2-f521-482a-8a16-3bd9d70b98b9)
+
